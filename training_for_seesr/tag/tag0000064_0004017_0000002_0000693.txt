@@ -1,0 +1,1 @@
+apartment, building, car, city street, corner, hydrant, intersection, park, road, street corner, tree,

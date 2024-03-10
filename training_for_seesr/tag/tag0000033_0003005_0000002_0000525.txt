@@ -1,0 +1,1 @@
+building, city street, curb, office building, park, road, street corner, truck, van,

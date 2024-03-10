@@ -1,0 +1,1 @@
+building, car, city, city street, cone, corner, intersection, office building, road, stop light, traffic light, street corner, street scene, traffic cone,

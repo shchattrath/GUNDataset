@@ -1,0 +1,1 @@
+alley, beam, building, ceiling, pillar, dark, person, man, overpass, parking garage, road, stand, tunnel, walk,

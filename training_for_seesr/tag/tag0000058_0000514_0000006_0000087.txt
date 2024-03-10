@@ -1,0 +1,1 @@
+apartment, building, bus, food truck, person, road, stop sign, street corner, walk, woman,

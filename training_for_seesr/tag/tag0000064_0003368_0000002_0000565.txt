@@ -1,0 +1,1 @@
+beam, bridge, car, city street, drive, overpass, park, road, van,

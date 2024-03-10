@@ -1,0 +1,1 @@
+beam, bridge, building, bus stop, city, person, overpass, road, train track, walk,

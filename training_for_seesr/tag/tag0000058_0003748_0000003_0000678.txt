@@ -1,0 +1,1 @@
+building, car, city, city street, pillar, person, overpass, parking garage, pavement, road, street scene, walk,

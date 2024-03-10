@@ -1,0 +1,1 @@
+building, car, city, pole, street corner, street sign, window,

@@ -1,0 +1,1 @@
+building, taxi, car, city, city bus, city street, curb, drive, glass building, office building, park, road, silver, skyscraper, trolley,

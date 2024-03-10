@@ -1,0 +1,1 @@
+building, car, city, city street, drive, license plate, overpass, park, road, suv, urban, vehicle,

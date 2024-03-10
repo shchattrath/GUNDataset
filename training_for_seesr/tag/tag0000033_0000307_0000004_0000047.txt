@@ -1,0 +1,1 @@
+apartment, building, taxi, car, city street, hotel, park, road, street corner, street scene,

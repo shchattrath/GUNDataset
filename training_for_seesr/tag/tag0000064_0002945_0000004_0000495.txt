@@ -1,0 +1,1 @@
+car, city street, person, man, park, pavement, road, walk,

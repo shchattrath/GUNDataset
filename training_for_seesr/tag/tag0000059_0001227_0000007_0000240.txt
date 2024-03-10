@@ -1,0 +1,1 @@
+building, car, city, person, office building, park, pavement, road, skyscraper, walk,

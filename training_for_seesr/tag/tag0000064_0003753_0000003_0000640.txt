@@ -1,0 +1,1 @@
+apartment, building, car, city street, garbage, park, road, tree,

@@ -1,0 +1,1 @@
+building, city, intersection, office building, rise building, road, skyscraper, stop light, traffic light, street corner, street sign,

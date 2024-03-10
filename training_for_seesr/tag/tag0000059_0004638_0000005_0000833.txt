@@ -1,0 +1,1 @@
+building, car, city, city street, person, intersection, office building, pavement, pedestrian, road, skyscraper, street corner, street scene, urban, walk,

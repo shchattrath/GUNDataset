@@ -1,0 +1,1 @@
+bin, brick building, building, car, city, city street, line, office building, park, road, side, urban,

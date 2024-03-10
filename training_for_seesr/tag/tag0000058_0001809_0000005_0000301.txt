@@ -1,0 +1,1 @@
+building, car, city, city street, corner, person, hydrant, intersection, office building, pedestrian, retail, road, store, storefront, street corner, street scene, walk,

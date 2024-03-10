@@ -1,0 +1,1 @@
+bridge, highway, overpass, road, stop sign, street corner, street sign, traffic sign, tunnel,

@@ -1,0 +1,1 @@
+apartment, building, car, hotel, retail, street corner, umbrella,

@@ -1,0 +1,1 @@
+apartment, building, car, drive, highway, office building, pole, road, street sign, tree,

@@ -1,0 +1,1 @@
+building, car, city, city street, line, park, road, side, tree,

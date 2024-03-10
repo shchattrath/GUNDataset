@@ -1,0 +1,1 @@
+apartment, building, car, corner, curb, office building, pavement, retail, road, sign, stop sign, store, storefront, street corner, street sign, traffic sign,

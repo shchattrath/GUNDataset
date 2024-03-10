@@ -1,0 +1,1 @@
+building, car, city, highway, office building, road,

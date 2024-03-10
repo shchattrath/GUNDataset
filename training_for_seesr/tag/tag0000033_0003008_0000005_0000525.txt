@@ -1,0 +1,1 @@
+ambulance, building, office building, park, truck, van,

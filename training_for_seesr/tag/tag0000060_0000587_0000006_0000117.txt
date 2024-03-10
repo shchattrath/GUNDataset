@@ -1,0 +1,1 @@
+beam, bridge, building, car, pillar, person, intersection, man, overpass, pole, railroad bridge, road, stand, stop light, traffic light, street corner, train bridge, train track, walk,

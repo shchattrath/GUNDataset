@@ -1,0 +1,1 @@
+building, corner, person, pavement, road, stop sign, street corner, street sign, traffic sign, walk,

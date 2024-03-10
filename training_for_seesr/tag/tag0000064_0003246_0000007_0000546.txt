@@ -1,0 +1,1 @@
+apartment, building, car, curb, office building, road, street sign,

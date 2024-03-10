@@ -1,0 +1,1 @@
+bridge, building, taxi, car, city, city street, drive, office building, overpass, road, skyscraper,

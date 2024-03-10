@@ -1,0 +1,1 @@
+basement, beam, building, lamp, ceiling, floor, light, parking garage, warehouse,

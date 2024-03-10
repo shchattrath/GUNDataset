@@ -1,0 +1,1 @@
+barrier, bridge, building, crane, overpass, rail, ramp, red, road, street sign, train track,

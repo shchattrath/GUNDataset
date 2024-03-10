@@ -1,0 +1,1 @@
+billboard, building, taxi, car, city, city street, office building, road, skyscraper, street corner, street scene, street sign,

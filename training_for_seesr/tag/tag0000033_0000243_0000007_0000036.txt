@@ -1,0 +1,1 @@
+ambulance, apartment, building, car, hotel, park, road, street corner, umbrella, van, white,

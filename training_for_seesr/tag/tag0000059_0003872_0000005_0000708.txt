@@ -1,0 +1,1 @@
+ambulance, building, taxi, car, city, city street, drive, glass building, office building, pavement, road, street corner, street scene,

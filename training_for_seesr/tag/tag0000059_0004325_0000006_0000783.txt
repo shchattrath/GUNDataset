@@ -1,0 +1,1 @@
+bridge, car, city, city street, pillar, drive, overpass, road,

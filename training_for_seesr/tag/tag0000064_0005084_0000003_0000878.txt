@@ -1,0 +1,1 @@
+building, city, corner, hotel, traffic light, street corner, street sign,

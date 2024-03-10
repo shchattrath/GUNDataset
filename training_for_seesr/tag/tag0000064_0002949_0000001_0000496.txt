@@ -1,0 +1,1 @@
+building, car, city, city street, crane, park, road, stop sign, street corner, street scene, street sign, traffic sign,

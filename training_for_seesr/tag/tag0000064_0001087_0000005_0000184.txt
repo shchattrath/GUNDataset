@@ -1,0 +1,1 @@
+build, car, city, city street, construction site, drive, fence, highway, pole, road, road sign, sign, street sign, traffic sign,

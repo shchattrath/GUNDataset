@@ -1,0 +1,1 @@
+apartment, building, city, city street, hydrant, pavement, pole, red, road, stop sign, traffic light, street corner, street sign, traffic sign,

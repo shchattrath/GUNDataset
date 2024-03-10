@@ -1,0 +1,1 @@
+building, city street, corner, person, intersection, pole, road, stand, stop light, traffic light, street corner, street scene, street sign, walk,

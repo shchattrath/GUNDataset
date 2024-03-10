@@ -1,0 +1,1 @@
+building, ceiling, pillar, dome, floor, hall, room, skylight,

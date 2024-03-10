@@ -1,0 +1,1 @@
+beam, building, canopy, car, ceiling, pillar, fill, overpass, park, parking garage, train track, vehicle,

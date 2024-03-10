@@ -1,0 +1,1 @@
+bridge, building, car, city, city street, drive, intersection, overpass, road, stop light, traffic light, street sign, traffic sign,

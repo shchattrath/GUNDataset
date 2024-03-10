@@ -1,0 +1,1 @@
+building, taxi, car, city, city street, drive, person, intersection, office building, road, skyscraper, traffic light, street corner, street scene, walk,

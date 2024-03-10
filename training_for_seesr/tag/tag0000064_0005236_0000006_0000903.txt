@@ -1,0 +1,1 @@
+building, city, city street, cross, person, jog, office building, pavement, pedestrian, road, street corner, street scene, walk,

@@ -1,0 +1,1 @@
+building, car, city, city street, fill, park, road, street scene, walk,

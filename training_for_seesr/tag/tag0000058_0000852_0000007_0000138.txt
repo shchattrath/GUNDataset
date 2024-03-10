@@ -1,0 +1,1 @@
+building, car, city, city street, drive, highway, glass building, office building, overpass, road, traffic light,

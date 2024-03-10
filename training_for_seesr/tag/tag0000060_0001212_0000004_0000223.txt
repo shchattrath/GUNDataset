@@ -1,0 +1,1 @@
+building, car, city, drive, highway, rise building, road,

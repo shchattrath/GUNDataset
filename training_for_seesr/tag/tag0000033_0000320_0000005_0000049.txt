@@ -1,0 +1,1 @@
+ambulance, building, taxi, car, city street, drive, person, park, road, street scene, walk,

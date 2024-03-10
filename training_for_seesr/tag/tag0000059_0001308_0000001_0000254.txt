@@ -1,0 +1,1 @@
+building, city, flag, glass building, headquarter, office building, skyscraper, stop light, traffic light, street corner, street sign,

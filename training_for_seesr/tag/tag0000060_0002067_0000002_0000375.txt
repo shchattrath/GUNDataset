@@ -1,0 +1,1 @@
+building, car, city, city street, office building, park, pavement, tower, rise building, road, skyscraper, tree, urban,

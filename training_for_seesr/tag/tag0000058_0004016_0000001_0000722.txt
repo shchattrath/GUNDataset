@@ -1,0 +1,1 @@
+apartment, building, car, corner, person, intersection, man, road, stand, street corner, walk,

@@ -1,0 +1,1 @@
+apartment, building, car, city, city street, office building, pavement, road, street scene, tree, urban, walk,

@@ -1,0 +1,1 @@
+black, building, car, city, drive, office building, park, road, sedan, skyscraper,

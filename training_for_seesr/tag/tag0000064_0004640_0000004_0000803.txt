@@ -1,0 +1,1 @@
+apartment, building, car, city street, hydrant, line, park, road, row, side,

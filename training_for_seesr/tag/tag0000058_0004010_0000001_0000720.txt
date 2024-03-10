@@ -1,0 +1,1 @@
+black, building, car, city, city street, pillar, drive, intersection, overpass, park, parking garage, road, stop sign, street corner, street sign, traffic sign,

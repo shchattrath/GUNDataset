@@ -1,0 +1,1 @@
+building, car, city, pillar, drive, overpass, parking garage, pole, road, sign, stop sign, street sign, traffic sign, train track,

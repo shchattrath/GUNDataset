@@ -1,0 +1,1 @@
+car, city street, curb, drive, park, road, street scene, tree,

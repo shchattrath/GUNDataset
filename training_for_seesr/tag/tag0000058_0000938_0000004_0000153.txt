@@ -1,0 +1,1 @@
+apartment, building, corner, intersection, office building, stop light, traffic light, street corner, street sign,
